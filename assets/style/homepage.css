@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+
+    .dokter-list {
+        padding: 20px 0 !important;
+        justify-content: center !important;
+    }
+
+    .dokter-list>ul {
+        justify-content: space-around !important;
+    }
+
+    .template-artikel-image-wrapper>img {
+        transform: translate(-50%, 0) !important;
+    }
+}

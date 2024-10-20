@@ -39,6 +39,6 @@
     </div>
     <hr><br><br>
     <footer class="copyright">
-        2023 &#169; TINEWATI SITE - ALL RIGHT RESERVED
+        2024 &#169; TINEWATI SITE - ALL RIGHT RESERVED
     </footer>
 </footer>

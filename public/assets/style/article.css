@@ -1,3 +1,22 @@
 .artikel {
     margin-top: 100px;
 }
+.artikel-title {
+    font-size: 36px; /* Membuat judul utama lebih besar */
+    font-weight: bold;
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+.template-artikel-content-title {
+    font-size: 24px; /* Membuat judul artikel dalam konten lebih besar */
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.template-artikel-content-description {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: justify; /* Menambahkan justifikasi pada deskripsi */
+}

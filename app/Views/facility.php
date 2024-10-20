@@ -1,7 +1,7 @@
 <?php $this->extend('layout/Master'); ?>
 <?php $this->section('content'); ?>
 <div class="facility-list">
-    <b class="facility-list-title">FASILITAS</b>
+    <h1 class="facility-list-title">FASILITAS</h1>
     <ul class="facility-list-table">
         <?php 
         // Definisikan array fasilitas dengan nama file gambar dan nama fasilitas yang sesuai
